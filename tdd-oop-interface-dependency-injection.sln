@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tdd-oop-interface-dependency-injection.CSharp.Main", "tdd-oop-interface-dependency-injection.CSharp.Main\tdd-oop-interface-dependency-injection.CSharp.Main.csproj", "{B747E7EA-396B-4AE6-B931-6C2056543157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-tdd-oop-interface-dependency-injection.Tests", "csharp-tdd-oop-interface-dependency-injection.Tests\csharp-tdd-oop-interface-dependency-injection.Tests.csproj", "{85AE0F51-8823-437D-B268-D8DC9431885C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B747E7EA-396B-4AE6-B931-6C2056543157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B747E7EA-396B-4AE6-B931-6C2056543157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B747E7EA-396B-4AE6-B931-6C2056543157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B747E7EA-396B-4AE6-B931-6C2056543157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85AE0F51-8823-437D-B268-D8DC9431885C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85AE0F51-8823-437D-B268-D8DC9431885C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85AE0F51-8823-437D-B268-D8DC9431885C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85AE0F51-8823-437D-B268-D8DC9431885C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD37AB8C-69EE-4077-9A46-0D1A13E95042}
+	EndGlobalSection
+EndGlobal
